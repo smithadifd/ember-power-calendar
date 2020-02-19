@@ -120,8 +120,6 @@
   $day-selected-text-color: #656D78,
   $day-selected-text-color--hover: $day-selected-text-color
 ) {
-
-  width: $row-width;
   .ember-power-calendar-week:first-child {
     &[data-missing-days="1"] {
       padding-left: $cell-with-spacing-width * 1;

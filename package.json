@@ -1,5 +1,5 @@
 {
-  "name": "ember-power-calendar",
+  "name": "epc-css",
   "version": "0.7.3",
   "description": "Powerful and customizable calendar component for Ember",
   "scripts": {
@@ -62,12 +62,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/cibernox/ember-power-calendar.git"
+    "url": "git+ssh://git@github.com/cibernox/ember-power-calendar.git"
   },
   "license": "MIT",
   "author": "Miguel Camba",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "dependencies": {
@@ -80,5 +79,10 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/cibernox/ember-power-calendar/issues"
+  },
+  "homepage": "https://github.com/cibernox/ember-power-calendar#readme",
+  "main": "index.js"
 }
