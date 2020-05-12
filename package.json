@@ -1,6 +1,6 @@
 {
   "name": "@smithadifd/epc-css",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Powerful and customizable calendar component for Ember",
   "scripts": {
     "build": "ember build",
